@@ -1,0 +1,26 @@
+{
+  "versions": [
+    {
+      "relations": [
+        {
+          "link": "http://tilera.xyz:8080/job/UniversalRemote/lastSuccessfulBuild/artifact/build/libs/UniversalRemote-1.12-0.9.10.jar",
+          "linkType": "file",
+          "type": "included",
+          "dir": "mods"
+        },
+        {
+          "link": "http://tilera.xyz:8080/job/EquivalentEnergistics/lastSuccessfulBuild/artifact/build/libs/EquivalentEnergistics-1.12.2-PE_1.4.1-AE2_RV6-0.8.4.jar",
+          "linkType": "file",
+          "type": "included",
+          "dir": "mods"
+        },
+ 	{
+          "link": "https://github.com/DimensionalDevelopment/DimDoors/releases/download/untagged-006689af32dd7475f546/DimensionalDoors-1.12.2-3.0.9-306.jar",
+          "linkType": "file",
+          "type": "included",
+          "dir": "mods"
+        }
+      ]
+    }
+  ]
+}

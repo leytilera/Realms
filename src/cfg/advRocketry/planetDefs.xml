@@ -1,0 +1,13 @@
+<galaxy>
+
+<star name="Sun" temp="100" x="0" y="0" numPlanets="7">
+    <planet name="Overworld" DIMID="0">
+        <isKnown>True</isKnown>
+    </planet>
+</star>
+
+<star name="Sol" temp="100" x="20" y="20" numPlanets="0">
+    
+</star>
+
+</galaxy>
